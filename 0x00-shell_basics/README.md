@@ -24,3 +24,6 @@ A script to move a file from one directory to another directory
 
 8-firstdelete
 A script to delete a file from a directory
+
+9-firstdirdeletion
+A script to delete a directory in another directory
