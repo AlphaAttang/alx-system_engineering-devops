@@ -21,3 +21,6 @@ A script that adds execution permission to the owner and group, and read permiss
 
 Task 7
 A script that gives execution permission to everybody
+
+Task 8
+A script that gives permission to others only
