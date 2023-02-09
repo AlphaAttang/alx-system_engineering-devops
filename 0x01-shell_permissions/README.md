@@ -30,3 +30,6 @@ A script that sets the mode of the file to rwxr-x-wx
 
 Task 10
 A script that mirrors permissions from one file to another file
+
+Task 11
+A script that adds execution permission to all subdirectories of the current directory for owner, gropu owner and all other users
