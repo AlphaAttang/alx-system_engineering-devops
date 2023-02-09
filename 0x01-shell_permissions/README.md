@@ -24,3 +24,6 @@ A script that gives execution permission to everybody
 
 Task 8
 A script that gives permission to others only
+
+Task 9
+A script that sets the mode of the file to rwxr-x-wx
