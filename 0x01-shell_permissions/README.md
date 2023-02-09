@@ -41,4 +41,7 @@ Task 13
 A script that changes group owner to school for file hello
 
 Task 14
-A script that changes user and group owner
+A script that changes user and group owner for all files and directories(*)
+
+Task 15
+A script that changes the owner and group owner of _hello to vincent and staff respectively(-h)
