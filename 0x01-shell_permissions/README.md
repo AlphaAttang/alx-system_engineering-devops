@@ -12,3 +12,6 @@ A script that changes owner of the file hello to user betty
 
 Task 4
 A script that creates an emty file called hello
+
+Task 5
+A script that adds execute permission to the owner of the file
