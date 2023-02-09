@@ -15,3 +15,6 @@ A script to display current directory contents including hidden files using long
 
 5-listfilesdigitonly
 A script to display current directory contents in long format, with user and group ID's displayed numerically and show hidden files
+
+6-firstdirectory
+A script that creates a directory inside another directory
