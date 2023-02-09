@@ -36,3 +36,6 @@ A script that adds execution permission to all subdirectories of the current dir
 
 Task 12
 A script that creates a directory with permissions 751
+
+Task 13
+A script that changes group owner to school for file hello
