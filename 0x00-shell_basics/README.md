@@ -51,3 +51,6 @@ A script that deletes all files in the current working directory that ends with 
 
 102-tree
 A script that creates the directories welcome/, welcome/to/, welcome/to/school in the current directory
+
+103-commas
+A script to list all directory names seperated with a comma(-m), directory names end with a slash(-p), files and directories starting with a dot i.e hidden files(-a), sort for digits and letters(-v)
