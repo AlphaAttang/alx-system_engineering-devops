@@ -18,3 +18,6 @@ A script to display current directory contents in long format, with user and gro
 
 6-firstdirectory
 A script that creates a directory inside another directory
+
+7-movethatfile
+A script to move a file from one directory to another directory
