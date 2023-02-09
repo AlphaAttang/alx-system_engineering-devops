@@ -39,3 +39,6 @@ A script that creates a directory with permissions 751
 
 Task 13
 A script that changes group owner to school for file hello
+
+Task 14
+A script that changes user and group owner
