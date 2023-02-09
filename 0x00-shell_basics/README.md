@@ -45,3 +45,6 @@ A script to copy files with a particular extension that didn't exist in the pare
 
 100-lets_move
 A script that moves all files beginning with uppercase to /tmp/u
+
+101-clean_emacs
+A script that deletes all files in the current working directory that ends with ~
