@@ -33,3 +33,6 @@ A script that changes the working directory to the previous one
 
 11-lists
 A script that list all files in long format hidden files, current directory, parent of the working directory and /boot directory
+
+12-file_type
+A script that prints the file type of iamafile in the /tmp directory
