@@ -36,3 +36,6 @@ A script that list all files in long format hidden files, current directory, par
 
 12-file_type
 A script that prints the file type of iamafile in the /tmp directory
+
+13-symbolic_link
+A script to create a symbolic link to /bin/ls named _ls_
