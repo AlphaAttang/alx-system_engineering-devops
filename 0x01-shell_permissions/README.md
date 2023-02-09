@@ -33,3 +33,6 @@ A script that mirrors permissions from one file to another file
 
 Task 11
 A script that adds execution permission to all subdirectories of the current directory for owner, gropu owner and all other users
+
+Task 12
+A script that creates a directory with permissions 751
