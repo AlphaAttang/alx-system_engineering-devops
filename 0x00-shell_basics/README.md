@@ -21,3 +21,6 @@ A script that creates a directory inside another directory
 
 7-movethatfile
 A script to move a file from one directory to another directory
+
+8-firstdelete
+A script to delete a file from a directory
