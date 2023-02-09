@@ -18,3 +18,6 @@ A script that adds execute permission to the owner of the file
 
 Task 6
 A script that adds execution permission to the owner and group, and read permission to others
+
+Task 7
+A script that gives execution permission to everybody
