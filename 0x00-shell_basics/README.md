@@ -30,3 +30,6 @@ A script to delete a directory in another directory
 
 10-back
 A script that changes the working directory to the previous one
+
+11-lists
+A script that list all files in long format hidden files, current directory, parent of the working directory and /boot directory
