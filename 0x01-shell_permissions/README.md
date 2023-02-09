@@ -27,3 +27,6 @@ A script that gives permission to others only
 
 Task 9
 A script that sets the mode of the file to rwxr-x-wx
+
+Task 10
+A script that mirrors permissions from one file to another file
