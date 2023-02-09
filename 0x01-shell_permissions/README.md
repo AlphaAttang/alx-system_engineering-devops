@@ -45,3 +45,6 @@ A script that changes user and group owner for all files and directories(*)
 
 Task 15
 A script that changes the owner and group owner of _hello to vincent and staff respectively(-h)
+
+Task 16
+A script that changes owner of the file hello to betty only if it is owned by guillaume(--from)
