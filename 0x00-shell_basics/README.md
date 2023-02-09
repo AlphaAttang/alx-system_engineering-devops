@@ -42,3 +42,6 @@ A script to create a symbolic link to /bin/ls named _ls_
 
 14-copy-html
 A script to copy files with a particular extension that didn't exist in the parent directory from the working directory
+
+100-lets_move
+A script that moves all files beginning with uppercase to /tmp/u
