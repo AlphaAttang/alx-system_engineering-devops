@@ -9,3 +9,6 @@ Add /action to the PATH. /action should be the last directory the shell looks in
 
 Task 3
 A script that  counts the number of directories in the PATH
+
+Task 4
+A script that list environment variables
